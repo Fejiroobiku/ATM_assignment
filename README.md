@@ -18,22 +18,21 @@ This project meets the following objectives:
 - **Implement input/output operations**  
 - **Practice conditional logic and loops**
 
- How to Run the Program
+ ## 🚀 How to Run the Program
 
- Compile the Program
- 
-On Linux / macOS:
+### 1. Compile the Program
+#### On Linux / macOS:
+```bash
 gcc atm.c -o atm
 ./atm
-
 On Windows (with MinGW):
-
+bash
+Copy code
 gcc atm.c -o atm.exe
 atm.exe
-
-
-
-Example Run
+2. Example Run
+markdown
+Copy code
 ===== Welcome to ATM Simulation =====
 
 Please choose an option:
