@@ -27,7 +27,8 @@ gcc atm.c -o atm
 ./atm
 On Windows (with MinGW):
 bash
-Copy code
+
+
 gcc atm.c -o atm.exe
 atm.exe
 
@@ -35,7 +36,6 @@ atm.exe
 
 2. Example Run
 markdown
-Copy code
 ===== Welcome to ATM Simulation =====
 
 Please choose an option:
