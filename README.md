@@ -30,6 +30,9 @@ bash
 Copy code
 gcc atm.c -o atm.exe
 atm.exe
+
+
+
 2. Example Run
 markdown
 Copy code
